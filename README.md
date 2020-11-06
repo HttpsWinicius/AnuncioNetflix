@@ -2,7 +2,7 @@
 Projeto realizado como um desafio na Faculdade Metodista Granbery.
 
 # Java
-A lingugagem utilizada em questão é Java. 
+A linguagem utilizada em questão é Java. 
 
 # Matéria 
 A matéria em questão é padrões de projetos que englobaram os padrões : 
