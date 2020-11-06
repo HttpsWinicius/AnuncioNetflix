@@ -7,6 +7,7 @@ A linguagem utilizada em questão é Java.
 # Matéria 
 A matéria em questão é padrões de projetos que englobaram os padrões : 
 
+<ul>
 MVC
 DAO
 Singleton
@@ -21,6 +22,6 @@ Reflexão
 Factory Method
 Chain of Responsability
 Template Method
-
+</ul>
 # IDE
 NetBeans IDE 8.0
